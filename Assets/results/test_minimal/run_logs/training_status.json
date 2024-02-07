@@ -1,0 +1,65 @@
+{
+    "EnemyBehavior": {
+        "checkpoints": [
+            {
+                "steps": 2536,
+                "file_path": "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-2536.onnx",
+                "reward": 0.0,
+                "creation_time": 1703685940.2267365,
+                "auxillary_file_paths": [
+                    "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-2536.pt"
+                ]
+            },
+            {
+                "steps": 3000,
+                "file_path": "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-3000.onnx",
+                "reward": 0.0,
+                "creation_time": 1703686010.438465,
+                "auxillary_file_paths": [
+                    "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-3000.pt"
+                ]
+            },
+            {
+                "steps": 3200,
+                "file_path": "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-3200.onnx",
+                "reward": 0.0,
+                "creation_time": 1703686163.0645642,
+                "auxillary_file_paths": [
+                    "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-3200.pt"
+                ]
+            },
+            {
+                "steps": 3528,
+                "file_path": "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-3528.onnx",
+                "reward": 0.0,
+                "creation_time": 1703686405.279407,
+                "auxillary_file_paths": [
+                    "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-3528.pt"
+                ]
+            },
+            {
+                "steps": 3992,
+                "file_path": "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-3992.onnx",
+                "reward": 0.0,
+                "creation_time": 1703686467.0633898,
+                "auxillary_file_paths": [
+                    "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-3992.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3992,
+            "file_path": "results\\test_minimal\\EnemyBehavior.onnx",
+            "reward": 0.0,
+            "creation_time": 1703686467.0633898,
+            "auxillary_file_paths": [
+                "results\\test_minimal\\EnemyBehavior\\EnemyBehavior-3992.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.1.2+cu121"
+    }
+}

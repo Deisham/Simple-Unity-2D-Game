@@ -1,0 +1,12 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "Attack",
+            "id": "3022d83e-f644-4d4e-925f-e11fdc62f2ca",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
